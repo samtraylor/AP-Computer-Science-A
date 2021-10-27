@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ TorpedoLaunch()
+comment1.params=
+comment1.target=void\ Dive()
+comment2.params=
+comment2.target=void\ LaunchJet()
+comment3.params=
+comment3.target=void\ FullSail()
+comment4.params=
+comment4.target=void\ Propel()
+numComments=5
